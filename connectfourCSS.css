@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(40, 40, 70);
+}
+button{
+   background-color: rgb(255, 255, 255);
+   border-color: 'black';
+   padding: 45px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 50%;
+}
+.jumbotron jumbotron-fluid{
+  background-color: DarkSlateGrey;
+}
+
+.onbuttonpress
+{
+  background-color: 'red';
+  border-color: 'black';
+  padding: 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
